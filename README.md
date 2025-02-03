@@ -1,8 +1,10 @@
 # Calories-Burnt-Prediction-using-Machine-Learning
 
 **Demo Images**
+
+
 ![image](https://github.com/user-attachments/assets/820673af-db5e-4432-aee0-994701f535f8)
-Here’s a simplified description of the project:
+
 
 1. **Libraries Used**: 
    The project uses various Python libraries like `pandas` for data handling, `numpy` for numerical operations, `seaborn` and `matplotlib` for plotting graphs, and `scikit-learn` and `xgboost` for building machine learning models.
